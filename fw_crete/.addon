@@ -1,0 +1,18 @@
+{
+  "Title": "Fortwars Crete",
+  "Type": "map",
+  "Org": "apetavern",
+  "Ident": "fw_crete",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "RootNamespace": null,
+  "Metadata": {
+    "GameSupport": [
+      "apetavern.fortwars"
+    ]
+  }
+}

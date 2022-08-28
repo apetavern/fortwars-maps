@@ -1,0 +1,19 @@
+{
+  "Title": "Fortwars Dev",
+  "Type": "map",
+  "Org": "apetavern",
+  "Ident": "fw_dev",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "RootNamespace": null,
+  "Metadata": {
+    "ProjectTemplate": null,
+    "GameSupport": [
+      "apetavern.fortwars"
+    ]
+  }
+}

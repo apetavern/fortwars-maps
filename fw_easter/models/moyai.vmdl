@@ -1,0 +1,160 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc29:version{3cec427c-1b0e-4d48-a90a-0436f33a6041} -->
+{
+	rootNode = 
+	{
+		_class = "RootNode"
+		children = 
+		[
+			{
+				_class = "RenderMeshList"
+				children = 
+				[
+					{
+						_class = "RenderMeshFile"
+						filename = "models\\dmx\\mesh\\moyai.dmx"
+						import_translation = [ 0.0, 0.0, 1000.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
+						import_scale = 0.25
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
+					},
+				]
+			},
+			{
+				_class = "PhysicsShapeList"
+				children = 
+				[
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "concrete"
+						collision_group = ""
+						collision_interact_as = ""
+						collision_interact_with = ""
+						collision_interact_exclude = ""
+						origin = [ 0.0, 6.97744, 69.346802 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 208.213318, 68.725845, 107.722321 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "concrete"
+						collision_group = ""
+						collision_interact_as = ""
+						collision_interact_with = ""
+						collision_interact_exclude = ""
+						origin = [ 0.0, 6.97744, 224.369995 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 140.431381, 68.725845, 207.704865 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "concrete"
+						collision_group = ""
+						collision_interact_as = ""
+						collision_interact_with = ""
+						collision_interact_exclude = ""
+						origin = [ 76.041122, -4.058464, 233.637817 ]
+						angles = [ -11.0, 0.0, 0.0 ]
+						dimensions = [ 27.921934, 46.654037, 92.942017 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "concrete"
+						collision_group = ""
+						collision_interact_as = ""
+						collision_interact_with = ""
+						collision_interact_exclude = ""
+						origin = [ 0.0, 18.4816, 229.695007 ]
+						angles = [ 0.0, 0.0, 10.0 ]
+						dimensions = [ 79.213654, 94.962608, 178.725769 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "concrete"
+						collision_group = ""
+						collision_interact_as = ""
+						collision_interact_with = ""
+						collision_interact_exclude = ""
+						origin = [ 0.0, -12.615, 231.501007 ]
+						angles = [ 0.0, 0.0, -3.0 ]
+						dimensions = [ 140.431381, 92.73558, 178.725769 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "concrete"
+						collision_group = ""
+						collision_interact_as = ""
+						collision_interact_with = ""
+						collision_interact_exclude = ""
+						origin = [ -76.0411, -4.05846, 233.638 ]
+						angles = [ 11.0, 0.0, 0.0 ]
+						dimensions = [ 27.921934, 46.654037, 92.942017 ]
+					},
+					{
+						_class = "PhysicsShapeSphere"
+						parent_bone = ""
+						surface_prop = "concrete"
+						collision_group = ""
+						collision_interact_as = ""
+						collision_interact_with = ""
+						collision_interact_exclude = ""
+						radius = 74.929932
+						center = [ 0.0, -15.0, 95.0 ]
+					},
+					{
+						_class = "PhysicsShapeCapsule"
+						parent_bone = ""
+						surface_prop = "concrete"
+						collision_group = ""
+						collision_interact_as = ""
+						collision_interact_with = ""
+						collision_interact_exclude = ""
+						radius = 73.40049
+						point0 = [ 0.0, 3.99358, 177.628006 ]
+						point1 = [ 0.0, -9.51379, 253.541 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "concrete"
+						collision_group = ""
+						collision_interact_as = ""
+						collision_interact_with = ""
+						collision_interact_exclude = ""
+						origin = [ 0.0, -7.085623, 17.553585 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 158.234818, 118.114899, 4.135811 ]
+					},
+					{
+						_class = "PhysicsShapeCylinder"
+						parent_bone = ""
+						surface_prop = "concrete"
+						collision_group = ""
+						collision_interact_as = ""
+						collision_interact_with = ""
+						collision_interact_exclude = ""
+						radius = 73.391907
+						point0 = [ 0.0, -10.0, 15.4654 ]
+						point1 = [ 0.0, -10.0, 99.725449 ]
+					},
+				]
+			},
+		]
+		model_archetype = ""
+		primary_associated_entity = ""
+		anim_graph_name = ""
+	}
+}

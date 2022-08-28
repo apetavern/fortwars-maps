@@ -1,0 +1,18 @@
+{
+  "Title": "Fortwars Pillars",
+  "Type": "map",
+  "Org": "apetavern",
+  "Ident": "fw_pillars",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "RootNamespace": null,
+  "Metadata": {
+    "GameSupport": [
+      "apetavern.fortwars"
+    ]
+  }
+}
