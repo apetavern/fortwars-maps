@@ -1,7 +1,27 @@
 {
-  "cloud_packages": [],
-  "game_packages": [
-    "apetavern.fortwars"
-  ],
-  "addon_packages": []
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "Fortwars Easter",
+      "Type": "map",
+      "Org": "apetavern",
+      "Ident": "fw_easter",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": [],
+      "EditorReferences": null,
+      "Metadata": {
+        "SingleAssetSource": "maps/fw_easter.vmap",
+        "Summary": "",
+        "Description": "",
+        "Public": false
+      }
+    }
+  }
 }

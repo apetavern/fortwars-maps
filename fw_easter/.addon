@@ -1,15 +1,18 @@
 {
   "Title": "Fortwars Easter",
-  "Type": "map",
+  "Type": "content",
   "Org": "apetavern",
   "Ident": "fw_easter",
   "Tags": null,
   "Schema": 1,
   "HasAssets": true,
   "AssetsPath": "",
-  "ResourcePaths": null,
+  "Resources": null,
+  "MenuResources": null,
   "HasCode": false,
   "CodePath": null,
+  "PackageReferences": [],
+  "EditorReferences": null,
   "Metadata": {
     "GameSupport": [
       "apetavern.fortwars"
