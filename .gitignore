@@ -29,6 +29,9 @@ _bakeresourcecache/
 *.zip
 *.vpcf_c
 *.vpost_c
+*.los
+*.vpk
+*_bakeresourcecache
 
 # Allowlist
 !*_dev.vpk
