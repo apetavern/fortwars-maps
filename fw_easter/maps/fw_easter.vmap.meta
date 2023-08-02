@@ -19,7 +19,8 @@
       "EditorReferences": [
         "facepunch.concrete_glossy#18629",
         "jammie.rgb_variation_masks#18142",
-        "apetavern.fortwars"
+        "apetavern.fortwars",
+        "jammie.rgb_masks#26485"
       ],
       "Metadata": {
         "SingleAssetSource": "maps/fw_easter.vmap",
