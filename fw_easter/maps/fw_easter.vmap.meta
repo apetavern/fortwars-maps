@@ -7,12 +7,11 @@
       "Type": "map",
       "Org": "apetavern",
       "Ident": "fw_easter",
-      "Tags": null,
+      "Tags": "moai moyai island temple ruins",
       "Schema": 0,
       "HasAssets": false,
       "AssetsPath": null,
       "Resources": null,
-      "MenuResources": null,
       "HasCode": false,
       "CodePath": null,
       "PackageReferences": [],
@@ -20,7 +19,8 @@
         "facepunch.concrete_glossy#18629",
         "jammie.rgb_variation_masks#18142",
         "apetavern.fortwars",
-        "jammie.rgb_masks#26485"
+        "jammie.rgb_masks#26485",
+        "jammie.rgb_masks#45515"
       ],
       "Metadata": {
         "SingleAssetSource": "maps/fw_easter.vmap",

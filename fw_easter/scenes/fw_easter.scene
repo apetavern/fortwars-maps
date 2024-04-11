@@ -1,0 +1,57 @@
+{
+  "Id": "6dd31c2d-4fe5-4541-b10e-b448440be40a",
+  "GameObjects": [
+    {
+      "Id": "73efb36c-1e20-4fc9-8613-a3665ff049b3",
+      "Name": "Main Camera",
+      "Position": "1423.309,-815.7583,599.8908",
+      "Rotation": "-0.1077805,0.07362372,0.8936426,0.4293787",
+      "Enabled": true,
+      "Components": [
+        {
+          "__type": "CameraComponent",
+          "BackgroundColor": "0.33333,0.46275,0.52157,1",
+          "ClearFlags": "All",
+          "FieldOfView": 60,
+          "IsMainCamera": true,
+          "Orthographic": false,
+          "OrthographicHeight": 1204,
+          "Priority": 1,
+          "RenderExcludeTags": "",
+          "RenderTags": "",
+          "TargetEye": "None",
+          "Viewport": "0,0,1,1",
+          "ZFar": 10000,
+          "ZNear": 10
+        }
+      ]
+    },
+    {
+      "Id": "1e9e1481-54c9-4da3-a134-a21f50d72aa1",
+      "Name": "Map",
+      "Enabled": true,
+      "Components": [
+        {
+          "__type": "MapInstance",
+          "MapName": "maps/fw_easter.vmap",
+          "OnMapLoaded": null,
+          "OnMapUnloaded": null,
+          "UseMapFromLaunch": false
+        }
+      ],
+      "Children": []
+    }
+  ],
+  "SceneProperties": {
+    "FixedUpdateFrequency": 50,
+    "Lerping": true,
+    "MaxFixedUpdates": 5,
+    "NetworkFrequency": 30,
+    "ThreadedAnimation": true,
+    "TimeScale": 1,
+    "UseFixedUpdate": true
+  },
+  "Title": null,
+  "Description": null,
+  "__references": []
+}

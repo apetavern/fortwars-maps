@@ -1,0 +1,15 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "shaders/shield.shader"
+
+	//---- Material ----
+	TextureColor "[1.000000 1.000000 1.000000 0.000000]"
+	TextureTranslucency "[1.000000 1.000000 1.000000 0.000000]"
+
+	//---- Shield ----
+	g_flFresnelExponent "6.094"
+	g_flFresnelReflectance "0.000"
+	g_vColor "[1.000000 0.545098 0.509804 1.000000]"
+}
