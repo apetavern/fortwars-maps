@@ -4,6 +4,7 @@ Properties
 .intermediate
 *.csproj
 *.bat
+*.sln
 
 # User-specific files
 *.rsuser
