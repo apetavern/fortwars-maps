@@ -9,11 +9,7 @@
       "Ident": "fw_easter",
       "Tags": "moai moyai island temple ruins",
       "Schema": 0,
-      "HasAssets": false,
-      "AssetsPath": null,
       "Resources": null,
-      "HasCode": false,
-      "CodePath": null,
       "PackageReferences": [],
       "EditorReferences": [
         "facepunch.concrete_glossy#18629",
