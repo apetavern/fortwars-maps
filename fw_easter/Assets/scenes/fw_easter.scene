@@ -8,8 +8,6 @@
       "Position": "1423.309,-815.7583,599.8908",
       "Rotation": "-0.1077805,0.07362372,0.8936426,0.4293787",
       "Enabled": true,
-      "NetworkMode": 2,
-      "NetworkInterpolation": true,
       "Components": [
         {
           "__type": "Sandbox.CameraComponent",
@@ -35,17 +33,53 @@
       "Flags": 0,
       "Name": "Map",
       "Enabled": true,
-      "NetworkMode": 2,
-      "NetworkInterpolation": true,
       "Components": [
         {
           "__type": "Sandbox.MapInstance",
           "__guid": "471af30b-567d-4599-a9b1-a4520be58bf1",
+          "__version": 1,
+          "EnableCollision": true,
           "MapName": "maps/fw_easter.vmap",
+          "NoOrigin": true,
           "UseMapFromLaunch": false
         }
       ],
       "Children": []
+    },
+    {
+      "__guid": "45242a8a-c110-4916-9f07-0cf8e6f3b435",
+      "Flags": 0,
+      "Name": "Object",
+      "Position": "1200,-600,275",
+      "Enabled": true,
+      "Components": [
+        {
+          "__type": "Sandbox.CharacterController",
+          "__guid": "42bb9d67-eec7-4461-8b06-74be14d12588",
+          "Acceleration": 10,
+          "Bounciness": 0.3,
+          "GroundAngle": 45,
+          "Height": 64,
+          "IgnoreLayers": "",
+          "Radius": 16,
+          "StepHeight": 18,
+          "UseCollisionRules": false
+        },
+        {
+          "__type": "PlayerController",
+          "__guid": "a53915d0-e6d2-4d5d-872a-912aed7eca7a",
+          "CharacterController": {
+            "_type": "component",
+            "component_id": "42bb9d67-eec7-4461-8b06-74be14d12588",
+            "go": "45242a8a-c110-4916-9f07-0cf8e6f3b435",
+            "component_type": "CharacterController"
+          },
+          "CrouchMoveSpeed": 64,
+          "RunMoveSpeed": 190,
+          "SprintMoveSpeed": 320,
+          "WalkMoveSpeed": 190
+        }
+      ]
     }
   ],
   "SceneProperties": {
@@ -71,7 +105,6 @@
   },
   "Title": "fw_easter",
   "Description": "",
-  "LastSaved": "2024-06-08T23:17:13.5090094\u002B01:00",
   "ResourceVersion": 1,
   "__references": [],
   "__version": 1
