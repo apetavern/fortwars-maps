@@ -49,8 +49,9 @@
     {
       "__guid": "45242a8a-c110-4916-9f07-0cf8e6f3b435",
       "Flags": 0,
-      "Name": "Object",
-      "Position": "1200,-600,275",
+      "Name": "Player",
+      "Position": "-1200,-600,275",
+      "Rotation": "0,0,1,0.0000001947072",
       "Enabled": true,
       "Components": [
         {
