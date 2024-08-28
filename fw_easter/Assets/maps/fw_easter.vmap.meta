@@ -1,14 +1,13 @@
 {
   "publish": {
-    "Allowed": true,
     "Enabled": true,
     "ProjectConfig": {
       "Title": "Fortwars Easter",
       "Type": "map",
       "Org": "apetavern",
       "Ident": "fw_easter",
-      "Tags": "moai moyai island temple ruins",
       "Schema": 0,
+      "IncludeSourceFiles": false,
       "Resources": null,
       "PackageReferences": [],
       "EditorReferences": [
@@ -16,8 +15,10 @@
         "jammie.rgb_variation_masks#18142",
         "apetavern.fortwars",
         "jammie.rgb_masks#26485",
-        "jammie.rgb_masks#45515"
+        "jammie.rgb_masks#45515",
+        "apetavern.fortwars#11061"
       ],
+      "IsWhitelistDisabled": false,
       "Metadata": {
         "SingleAssetSource": "maps/fw_easter.vmap",
         "Summary": "",

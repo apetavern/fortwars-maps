@@ -3,11 +3,12 @@
   "Type": "game",
   "Org": "apetavern",
   "Ident": "fw_easter",
-  "Tags": null,
   "Schema": 1,
+  "IncludeSourceFiles": false,
   "Resources": null,
   "PackageReferences": [],
   "EditorReferences": null,
+  "IsWhitelistDisabled": false,
   "Metadata": {
     "GameSupport": [
       "apetavern.fortwars"
