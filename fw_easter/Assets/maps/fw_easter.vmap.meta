@@ -11,12 +11,8 @@
       "Resources": null,
       "PackageReferences": [],
       "EditorReferences": [
-        "facepunch.concrete_glossy#18629",
-        "jammie.rgb_variation_masks#18142",
-        "apetavern.fortwars",
-        "jammie.rgb_masks#26485",
-        "jammie.rgb_masks#45515",
-        "apetavern.fortwars#11061"
+        "facepunch.v_usp#64712",
+        "jammie.rgb_masks#45515"
       ],
       "IsWhitelistDisabled": false,
       "Metadata": {
