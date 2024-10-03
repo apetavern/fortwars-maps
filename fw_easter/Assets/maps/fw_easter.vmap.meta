@@ -11,6 +11,7 @@
       "Resources": null,
       "PackageReferences": [],
       "EditorReferences": [
+        "eurorp.door01_right_01#12553",
         "facepunch.v_usp#64712",
         "jammie.rgb_masks#45515"
       ],
@@ -19,7 +20,8 @@
         "SingleAssetSource": "maps/fw_easter.vmap",
         "Summary": "",
         "Description": "",
-        "Public": false
+        "Public": false,
+        "ParentPackage": "apetavern.fw_easter"
       }
     }
   }

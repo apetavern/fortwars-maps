@@ -2,23 +2,22 @@
   "publish": {
     "Enabled": false,
     "ProjectConfig": {
-      "Title": null,
-      "Type": null,
-      "Org": null,
-      "Ident": null,
-      "Tags": null,
+      "Title": "moyaihead",
+      "Type": "map",
+      "Org": "local",
+      "Ident": "moyaihead",
       "Schema": 0,
-      "HasAssets": false,
-      "AssetsPath": null,
+      "IncludeSourceFiles": false,
       "Resources": null,
-      "MenuResources": null,
-      "HasCode": false,
-      "CodePath": null,
       "PackageReferences": [],
       "EditorReferences": [
         "facepunch.concrete_glossy#18629"
       ],
-      "Metadata": {}
+      "IsWhitelistDisabled": false,
+      "Metadata": {
+        "SingleAssetSource": "maps/prefabs/moyaihead.vmap",
+        "ParentPackage": "apetavern.fw_easter"
+      }
     }
   }
 }
