@@ -33,6 +33,7 @@ _bakeresourcecache/
 *.los
 *.vpk
 *_bakeresourcecache
+.sbox/
 
 # Allowlist
 !*_dev.vpk
