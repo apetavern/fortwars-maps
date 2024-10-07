@@ -1,0 +1,24 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "fw_dev",
+      "Type": "map",
+      "Org": "apetavern",
+      "Ident": "fw_dev",
+      "Schema": 0,
+      "IncludeSourceFiles": false,
+      "Resources": null,
+      "PackageReferences": [],
+      "EditorReferences": [
+        "apetavern.dev_measuregeneric_blue#74238",
+        "apetavern.dev_measuregeneric_red#74239"
+      ],
+      "IsWhitelistDisabled": false,
+      "Metadata": {
+        "SingleAssetSource": "maps/fw_dev.vmap",
+        "ParentPackage": ""
+      }
+    }
+  }
+}
