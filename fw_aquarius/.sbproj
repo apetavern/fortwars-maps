@@ -1,0 +1,17 @@
+{
+  "Title": "Fortwars Aquarius",
+  "Type": "addon",
+  "Org": "apetavern",
+  "Ident": "fw_aquarius",
+  "Schema": 1,
+  "IncludeSourceFiles": false,
+  "Resources": null,
+  "PackageReferences": [],
+  "EditorReferences": null,
+  "IsWhitelistDisabled": false,
+  "Metadata": {
+    "GameSupport": [
+      "apetavern.fortwars"
+    ]
+  }
+}
