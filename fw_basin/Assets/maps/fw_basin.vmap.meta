@@ -1,0 +1,25 @@
+{
+  "publish": {
+    "Enabled": false,
+    "ProjectConfig": {
+      "Title": "fw_basin",
+      "Type": "map",
+      "Org": "local",
+      "Ident": "fw_basin",
+      "Schema": 0,
+      "IncludeSourceFiles": false,
+      "Resources": null,
+      "PackageReferences": [],
+      "EditorReferences": [
+        "apetavern.dev_measuregeneric_blue#74238",
+        "apetavern.dev_measuregeneric_red#74239",
+        "eurorp.door01_right_01#12553"
+      ],
+      "IsWhitelistDisabled": false,
+      "Metadata": {
+        "SingleAssetSource": "maps/fw_basin.vmap",
+        "ParentPackage": ""
+      }
+    }
+  }
+}
