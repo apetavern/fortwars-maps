@@ -1,0 +1,18 @@
+{
+  "Title": "Fortwars Abyss",
+  "Type": "addon",
+  "Org": "apetavern",
+  "Ident": "fw_abyss",
+  "Schema": 1,
+  "IncludeSourceFiles": false,
+  "Resources": null,
+  "PackageReferences": [],
+  "EditorReferences": null,
+  "IsWhitelistDisabled": false,
+  "Metadata": {
+    "ProjectTemplate": null,
+    "GameSupport": [
+      "apetavern.fortwars"
+    ]
+  }
+}
