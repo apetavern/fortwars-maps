@@ -2,22 +2,18 @@
   "publish": {
     "Enabled": true,
     "ProjectConfig": {
-      "Title": "fw_basin",
+      "Title": "fw_grassforts",
       "Type": "map",
       "Org": "apetavern",
-      "Ident": "fw_basin",
+      "Ident": "fw_grassforts",
       "Schema": 0,
       "IncludeSourceFiles": false,
       "Resources": null,
       "PackageReferences": [],
-      "EditorReferences": [
-        "apetavern.dev_measuregeneric_blue#74238",
-        "apetavern.dev_measuregeneric_red#74239",
-        "eurorp.door01_right_01#12553"
-      ],
+      "EditorReferences": [],
       "IsWhitelistDisabled": false,
       "Metadata": {
-        "SingleAssetSource": "maps/fw_basin.vmap",
+        "SingleAssetSource": "maps/fw_grassforts.vmap",
         "ParentPackage": ""
       }
     }
