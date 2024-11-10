@@ -1,0 +1,21 @@
+{
+  "publish": {
+    "Enabled": false,
+    "ProjectConfig": {
+      "Title": "Fw Divided Sky",
+      "Type": "map",
+      "Org": "local",
+      "Ident": "fwdividedsky",
+      "Schema": 0,
+      "IncludeSourceFiles": false,
+      "Resources": null,
+      "PackageReferences": [],
+      "EditorReferences": [],
+      "IsWhitelistDisabled": false,
+      "Metadata": {
+        "SingleAssetSource": "maps/fw_divided_sky.vmap",
+        "ParentPackage": ""
+      }
+    }
+  }
+}
