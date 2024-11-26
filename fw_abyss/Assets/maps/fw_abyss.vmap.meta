@@ -1,0 +1,21 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "Fortwars Abyss",
+      "Type": "map",
+      "Org": "apetavern",
+      "Ident": "fw_abyss",
+      "Schema": 0,
+      "IncludeSourceFiles": false,
+      "Resources": null,
+      "PackageReferences": [],
+      "EditorReferences": null,
+      "IsWhitelistDisabled": false,
+      "Metadata": {
+        "SingleAssetSource": "maps/fw_abyss.vmap",
+        "ParentPackage": ""
+      }
+    }
+  }
+}
